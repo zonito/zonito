@@ -1,4 +1,10 @@
-### Hi there 👋
+### Namaste 🙏
+
+[![Anurag's GitHub stats](https://github-readme-stats-a5n66i210-zonito.vercel.app/api?username=zonito&count_private=true)](https://github.com/zonito/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-a5n66i210-zonito.vercel.app/api/top-langs/?username=zonito&layout=compact)](https://github.com/zonito/github-readme-stats)
+
+[![Wakatime stats](https://github-readme-stats-a5n66i210-zonito.vercel.app/api/zonito?username=zonito&layout=compact)](https://wakatime.com/@zonito)
 
 <!--
 **zonito/zonito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
