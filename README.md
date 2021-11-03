@@ -5,7 +5,7 @@
 
 [![Top Langs](https://github-readme-stats-a5n66i210-zonito.vercel.app/api/top-langs/?username=zonito&layout=compact)](https://github.com/zonito/github-readme-stats)
 
-[![Wakatime stats](https://github-readme-stats-a5n66i210-zonito.vercel.app/api/zonito?username=zonito&layout=compact)](https://wakatime.com/@zonito)
+[![Wakatime stats](https://github-readme-stats-a5n66i210-zonito.vercel.app/api/wakatime?username=zonito&layout=compact)](https://wakatime.com/@zonito)
 
 <!--
 **zonito/zonito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
