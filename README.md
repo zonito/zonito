@@ -2,6 +2,12 @@
 
 > I (an engineer) will still be useful after AI Revolution!
 
+
+**More About Me**:
+- [Personal Website](https://zonito.com)
+- [Medium](https://zonito.medium.com)
+
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/zonito?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fzonito&screen_name=zonito87)
 
 ![](https://github-readme-stats-a5n66i210-zonito.vercel.app/api?username=zonito&count_private=true)
