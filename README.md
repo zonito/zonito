@@ -1,6 +1,6 @@
 ### Namaste 🙏
 
-> I (an engineer) will still be useful after AI Revolution!
+> I (an engineer) will still be useful after AI Revolution.
 
 
 **More About Me**:
